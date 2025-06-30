@@ -1,5 +1,10 @@
 # 🚀 PromptVault: Prompt Better. Store Smarter. Create Faster.
 
+## 🔗 Project Links
+
+- 🎥 [YouTube Demo – PromptVault](https://youtu.be/H1ez9-R1Y8c)  
+- 🌐 [Live Site – PromptVault on Netlify](https://mellifluous-stardust-4665b5.netlify.app/)
+
 ## 🌟 Inspiration
 
 As creators and professionals, we constantly generate prompts—whether it's for writing, brainstorming, marketing, or coding. But we often struggle to **organize them**, **reuse them**, or **iterate** on past work.
@@ -57,5 +62,5 @@ I'm planning to:
 ---
 
 PromptVault is just the beginning of a smarter, more organized way to create with AI.
-**We're excited to keep building!**
+**I'm excited to keep building!**
 
